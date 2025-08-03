@@ -1,0 +1,16 @@
+/Laravel/vendor/
+/Laravel/node_modules/
+/Laravel/storage/*.key
+/Laravel/storage/*.log
+/Laravel/storage/framework/*
+!/Laravel/storage/framework/.gitignore
+/Laravel/storage/logs/*
+!/Laravel/storage/logs/.gitignore
+/Laravel/bootstrap/cache/*
+!/Laravel/bootstrap/cache/.gitignore
+/Laravel/.env
+/Laravel/.phpunit.result.cache
+/Laravel/public/storage
+/Laravel/storage/oauth-private.key
+/Laravel/storage/oauth-public.key
+/Laravel/database/*.sqlite
